@@ -46,7 +46,7 @@ public class Exercise04 {
             return 1;
         }
         else
-            return num * factorial(num-1);
+            return num * recursiveFactorial(num - 1);
     }
 
 
